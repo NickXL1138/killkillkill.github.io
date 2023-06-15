@@ -19,6 +19,9 @@ body {
     text-align: center;
     font-size: 25px;
   }
-  section {
+  section > h2 {
+    text-align: center;
+  }
+  section > li {
     text-align: center;
   }
