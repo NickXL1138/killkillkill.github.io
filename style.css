@@ -7,21 +7,15 @@ body {
   
     width: 980px;
     margin: 0 auto;
+
+    text-align: center;
   }
   
   h1 {
-    text-align: center;
     font-size: 36px;
     margin-bottom: 0;
   }
   
   main > h2 {
-    text-align: center;
     font-size: 25px;
-  }
-  section > h2 {
-    text-align: center;
-  }
-  section > li {
-    text-align: center;
   }
